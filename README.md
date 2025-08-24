@@ -2,7 +2,13 @@
 
 Un pequeño gestor de tareas en la terminal con persistencia en **JSON**.
 
-## 🚀 Uso
+# Task Manager CLI (Python)
+
+A small task manager in the terminal with **JSON** persistence.
+
+
+
+## 🚀 Usage
 
 ```bash
 python main.py add "Estudiar Linux"
